@@ -4,7 +4,7 @@
 
 <h3>All users</h3>
 
-<a href="{{route('users.create')}}" class="btn btn-dark mb-2" title="Add New User"><i class="bi bi-person-plus-fill h1"></i></a>
+<a href="{{route('users')}}" class="btn btn-dark mb-2" title="Add New User"><i class="bi bi-person-plus-fill h1"></i></a>
 <table class="table table-bordered">
   <thead>
     <tr>
